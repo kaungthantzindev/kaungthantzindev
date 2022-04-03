@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaung Thant Zin</h1>
 <h3 align="center">A Web Developer</h3>
 
-- 🌱 I’m currently learning **MERN STACK Development**
+- 🌱 I’m currently learning **Laravel**
 
 - 💬 Ask me about **reactjs,nodejs,flutter**
 
