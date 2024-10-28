@@ -1,4 +1,7 @@
-
+- 👋 Hi, I’m @kaungthantzindev
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Java
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kaungthantzin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@mr.kaungthantzin) 
 
